@@ -12,7 +12,7 @@ Criar um protótipo de sistema capaz de receber documentos-fonte veterinários, 
 
 A proposta é evoluir o projeto gradualmente, aplicando conceitos como:
 
-- IA generativa;
+- IA;
 - documentos-fonte;
 - RAG — Retrieval-Augmented Generation;
 - chunking;
