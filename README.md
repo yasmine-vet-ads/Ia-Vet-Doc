@@ -228,6 +228,24 @@ Ele foi criado para orientar respostas baseadas apenas no documento-fonte, evita
 
 ---
 
+## Projeto relacionado
+
+Este projeto se conecta ao repositório [Us.Vet.Imagens.Anonimizador](https://github.com/yasmine-vet-ads/Us.Vet.Imagens.Anonimizador), desenvolvido para auxiliar na anonimização de imagens ultrassonográficas veterinárias.
+
+Enquanto o **Us.Vet.Imagens.Anonimizador** atua na proteção de dados sensíveis presentes em imagens de exames, o **Ia-Vet-Doc** explora a organização, consulta e estruturação de documentos veterinários, como laudos, históricos clínicos e materiais técnicos.
+
+Os dois projetos fazem parte de uma mesma linha de portfólio voltada para:
+
+- diagnóstico por imagem veterinária;
+- proteção e organização de dados clínicos;
+- automação de processos técnicos;
+- apoio à documentação veterinária;
+- soluções aplicadas em VetTech e HealthTech.
+
+A proposta futura é que esses projetos possam evoluir de forma complementar, compondo um fluxo mais completo para documentação, anonimização, consulta e organização de informações em exames veterinários.
+
+---
+
 ## Exemplo de uso futuro
 
 O usuário poderá enviar um laudo veterinário fictício ou documento técnico e perguntar, por exemplo:
