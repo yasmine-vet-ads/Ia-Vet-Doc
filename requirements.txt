@@ -1,0 +1,12 @@
+# Ia-Vet-Doc
+# Dependências do projeto
+
+# A versão inicial usa apenas recursos nativos do Python.
+# Nenhum pacote externo é obrigatório nesta fase.
+
+# Futuras bibliotecas possíveis:
+# python-dotenv
+# requests
+# openai
+# langchain
+# chromadb
